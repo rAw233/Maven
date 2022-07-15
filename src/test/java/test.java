@@ -9,7 +9,7 @@ public class test {
         //第二次修改
 
         System.out.println("测试develop分支");
-        //提交本地master分支
+        //提交远程develop分支
     }
 
 }
